@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoFilials", "GeoFilials\GeoFilials.csproj", "{C787A218-B88E-4222-A2BB-9C5B673DC30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C787A218-B88E-4222-A2BB-9C5B673DC30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C787A218-B88E-4222-A2BB-9C5B673DC30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C787A218-B88E-4222-A2BB-9C5B673DC30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C787A218-B88E-4222-A2BB-9C5B673DC30C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9320994D-626B-4517-B6B6-A68C5EE99B8C}
+	EndGlobalSection
+EndGlobal
